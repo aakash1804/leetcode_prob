@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
