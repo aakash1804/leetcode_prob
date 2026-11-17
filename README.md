@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
+| [2544-alternating-digit-sum](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
 | ------- |
