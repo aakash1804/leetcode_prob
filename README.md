@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2553-separate-the-digits-in-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
