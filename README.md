@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2553-separate-the-digits-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
