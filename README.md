@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2553-separate-the-digits-in-an-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Prefix Sum
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0977-squares-of-a-sorted-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
