@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/0977-squares-of-a-sorted-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/jammulaaakash53-crypto/leetcode_prob/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
